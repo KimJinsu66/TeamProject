@@ -2,8 +2,8 @@
 /**
  *   인터페이스 Shape - 여기에 인터페이스 설명을 작성하십시오.
  * 
- * @author (작성자 이름) 
- * @version (버전 번호나 날짜)
+ * @author (2017315002 김아름) 
+ * @version (2019.09.02)
  */
 
 public interface Shape{ 
