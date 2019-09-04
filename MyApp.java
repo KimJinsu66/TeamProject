@@ -5,7 +5,7 @@
  * @author (2017315002 김아름,2018315053 테라오카유이카,2014671038 김진수) 
  * @version (2019.09.02)
  */
-public class Test
+public class MyApp
 {
     public static void main(String[] args){
         Shape[] list = new Shape[3];
