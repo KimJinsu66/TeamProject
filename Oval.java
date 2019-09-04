@@ -2,7 +2,7 @@
 /**
  * 인터페이스 Shape를 상속받은 Oval클래스.
  * 
- * @author (2014671038 김진수) 
+ * @author (2017315002 김아름,2018315053 테라오카유이카,2014671038 김진수) 
  * @version (2019.09.02)
  */
 public class Oval implements Shape
