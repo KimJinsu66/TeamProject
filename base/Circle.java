@@ -30,4 +30,7 @@ public class Circle implements Shape
     public double getArea(){
         return radius * radius * PI ;
     } 
+    public String toString(){
+        return "중심점 : ("+ x +"," + y + ") , 반지름 : " + radius+ ", " + "면적 : " + getArea();
+    }
 }
