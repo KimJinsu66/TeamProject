@@ -13,9 +13,11 @@ public class Rect implements Shape
         this.width = width;
         this.height = height;
     }
+
     public void draw(){
         System.out.println(width + "x" + height + "크기의 사각형입니다.");
     } 
+
     public double getArea(){
         return width * height;
     } 
